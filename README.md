@@ -75,6 +75,8 @@ Tetris is a puzzle video game created by Soviet software engineer Alexey Pajitno
 
 **Other projects**
 -------------
-[Minesweeper](https://github.com/Kttra/MinesweeperC) in C
-[ConnectN](https://github.com/Kttra/ConnectN) in C
-[Game of Life](https://github.com/Kttra/GameOfLife) in python
+[Minesweeper](https://github.com/Kttra/MinesweeperC) - Minesweeper implementation in C
+
+[ConnectN](https://github.com/Kttra/ConnectN) - ConnectN is a game based off of Connect4 where you have to connect 4 pieces in a row to win. In this C implementation, the user selects how many pieces will be needed to win and how large the board will be.
+
+[Game of Life](https://github.com/Kttra/GameOfLife) - A game, created by British mathematician John Horton Conway, with simple rules that leads to complex behavior implementated in python.
