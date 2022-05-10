@@ -72,3 +72,9 @@ Tetris is a puzzle video game created by Soviet software engineer Alexey Pajitno
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100814612/166402468-a7e318b3-56fc-49f7-81c8-841feacdad62.png"><img>
 </p>
+
+**Other projects**
+-------------
+[Minesweeper](https://github.com/Kttra/MinesweeperC) in C
+[ConnectN](https://github.com/Kttra/ConnectN) in C
+[Game of Life](https://github.com/Kttra/GameOfLife) in python
